@@ -1,0 +1,22 @@
+{
+    "name": "luizfabianonogueira/sse-notify",
+    "description": "Poderosa ferramenta para notificar o usuário de eventos importantes em tempo real",
+    "keywords": ["sse", "server-sent-events", "notification"],
+    "type": "library",
+    "license": "LGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "LuizFabianoNogueira\\SseNotify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luiz Fabianno Nogueira",
+            "email": "luizfabianonogueira@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.3"
+    }
+}
