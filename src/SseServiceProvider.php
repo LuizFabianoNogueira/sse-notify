@@ -12,7 +12,7 @@ class SseServiceProvider extends ServiceProvider
         $this->loadMigrationsFrom(__DIR__ . '/Migrations');
 
         $this->publishesMigrations([
-            __DIR__.'Migrations' => database_path('migrations'),
+            __DIR__.'/Migrations' => database_path('migrations'),
         ], 'sse-notify-migrations');
 
         $this->publishes([
