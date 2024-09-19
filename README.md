@@ -42,18 +42,20 @@ In bootstrap/providers.php.
 <?php
 return [
     // other providers...
-    LuizFabianoNOgueira\SseNotify\SseServiceProvider::class, 
+    LuizFabianoNogueira\SseNotify\SseServiceProvider::class, 
 ];
 ```
 After that you must publish the migration and js file.
 
 ```shell    
-php artisan vendor:publish --provider="LuizFabianoNOgueira\SseNotify\SseServiceProvider"
+php artisan vendor:publish --tag=sse-notify-migrations
+php artisan vendor:publish --tag=sse-notify-assets
 ```
 Attention: the sse.js file will be exported to public/assets/js/sse.js. \
 If you use Vite or similar tools, configure js correctly to be loaded.
 
 Execute the migration to create the table that will store the notifications.
+
 ```shell    
 php artisan migrate
 ```
