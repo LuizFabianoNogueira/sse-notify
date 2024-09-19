@@ -104,6 +104,7 @@ $data = [
 ];
 (new SseEventMessageSweet($data))->save();
 ```
+<img src="src/Assets/img/sweetalert.png">
 
 ### ..::|| Bootstrap Notify ||::..
 ```php
@@ -117,6 +118,7 @@ $data = [
 ];
 (new SseEventMessageNotify($data))->save();
 ```
+<img src="src/Assets/img/bootstrap.png">
 
 ### ..::|| Bootstrap TOAST ||::..
 ```php
@@ -133,6 +135,7 @@ $data = [
 ];
 (new SseEventMessageToast($data))->save();
 ```
+<img src="src/Assets/img/toast.png">
 
 ### ..::|| INJECTION HTML ||::..
 ```php
