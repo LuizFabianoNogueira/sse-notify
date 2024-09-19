@@ -22,6 +22,8 @@ With support for **dynamic HTML and JavaScript injection**, the possibilities ar
 ## 👉 Ready to transform how you interact with your users?
 Try **[Sse-Notify]** and discover how easy it is to take your notifications to the next level!
 
+### License: LGPL-3.0-or-later
+
 ## Requirements
 PHP 8.2 or higher \
 Laravel 10.0 or higher \
