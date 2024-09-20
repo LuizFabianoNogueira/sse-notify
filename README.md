@@ -1,4 +1,4 @@
-<p align="center"><img src="src/Assets/img/laravel.jpg" alt="Laravel Logo"></p>
+<p align="center"><img src="src/Assets/img/laravel.png" alt="Laravel Logo"></p>
 
 
 # 🚀 Introducing Sse-Notify – The Dynamic Real-Time Notification Solution for Laravel! 🎉
