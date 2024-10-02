@@ -185,7 +185,7 @@ If you enjoyed this project and would like to support my work, any donation via 
 Feel free to donate using one of the following Pix keys:
 
 💳 **Email Pix Key:** `luizfabianonogueira@gmail.com`  
-📱 **Phone Pix Key:** `+55 48 99177-9088`
+📱 **Phone Pix Key:** `48991779088`
 
 Thank you for your support!
 
