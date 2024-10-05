@@ -1,5 +1,12 @@
 <p align="center"><img src="src/Assets/img/laravel.png" alt="Laravel Logo"></p>
 
+# SSE-NOTIFY
+
+[![Latest Stable Version](https://poser.pugx.org/luizfabianonogueira/sse-notify/v)](//packagist.org/packages/luizfabianonogueira/sse-notify)
+[![Total Downloads](https://poser.pugx.org/luizfabianonogueira/sse-notify/downloads)](//packagist.org/packages/luizfabianonogueira/sse-notify)
+[![Latest Unstable Version](https://poser.pugx.org/luizfabianonogueira/sse-notify/v/unstable)](//packagist.org/packages/luizfabianonogueira/sse-notify)
+[![License](https://poser.pugx.org/luizfabianonogueira/sse-notify/license)](//packagist.org/packages/luizfabianonogueira/sse-notify)
+
 
 # 🚀 Introducing Sse-Notify – The Dynamic Real-Time Notification Solution for Laravel! 🎉
 
@@ -24,8 +31,6 @@ With support for **dynamic HTML and JavaScript injection**, the possibilities ar
 
 ## 👉 Ready to transform how you interact with your users?
 Try **[Sse-Notify]** and discover how easy it is to take your notifications to the next level!
-
-### License: LGPL-3.0-or-later
 
 ## Requirements
 PHP 8.2 or higher \
@@ -163,6 +168,8 @@ After saving, the system sends the notification to the target user. \
 Each notification has a 3 seconds interval between them. \
 If you don't have notifications, the next check is in 10 seconds.
 
+
+### License: LGPL-3.0-or-later
 
 ___
 ___
