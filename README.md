@@ -7,8 +7,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/luizfabianonogueira/sse-notify/v/unstable)](//packagist.org/packages/luizfabianonogueira/sse-notify)
 [![License](https://poser.pugx.org/luizfabianonogueira/sse-notify/license)](//packagist.org/packages/luizfabianonogueira/sse-notify)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
-
+## Description
 
 If you’re developing with Laravel and looking for an effective way to interact with your users in real time, your solution is here! With **[Sse-Notify]**, you can:
 
